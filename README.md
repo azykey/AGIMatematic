@@ -8,6 +8,11 @@ no final finalizei no Grok do X
 
 Trasformar a matematica em tecnologia.. 
 
+Não esta totalmente completa ou os calculos, precisao de melhorias.
+Apenas deixei para quem quiser mexer ou verificar ficar a vontade 
+
+portanto. 
+
 AGIMatematic
 # Documentação Matemática Completa de AGI
 
@@ -221,6 +226,6 @@ AGIMatematic
   \text{Balance} = \max_i \text{Load}_i - \min_i \text{Load}_i
   \]
 
-## Conclusão
+## Adilson Oliveira
 
 Esta documentação abrange os fundamentos matemáticos essenciais para a construção de uma AGI. Cada componente descrito aqui requer ajustes e otimizações específicas para o contexto de aplicação, necessitando de experimentação e refinamento contínuos para alcançar a inteligência geral artificial.
