@@ -1,10 +1,14 @@
 # AGIMatematic
+Versao Antiga. 
 
-Nao quis colocar latex. 
+
+Não quis colocar latex. 
 
 Um Force para verificação com varias LLMs. 
 
-no final finalizei no Grok do X 
+No final finalizei no Grok do X 
+Para ver o comportamento dos Calculos. 
+
 
 Trasformar a matematica em tecnologia.. 
 
@@ -12,6 +16,14 @@ Não esta totalmente completa ou os calculos, precisao de melhorias.
 Apenas deixei para quem quiser mexer ou verificar ficar a vontade 
 
 portanto. 
+
+Gosto de fazer uma forçada em verifiçao para ajuste. 
+
+Bom espero que a versao antiga ajude a muitos. 
+
+2025 
+
+Feliz ano de 2025. 
 
 AGIMatematic
 # Documentação Matemática Completa de AGI
